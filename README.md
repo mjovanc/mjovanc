@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Marcus here, working professionally as some sort of Automation/DevOps Engineer with CI/CD pipelines to make life a lot easier for the Software Engineers working on the product.
+Marcus here, working professionally as some sort of Software/Automation Engineer with C/C++ and CI/CD pipelines to make life a lot easier for the Software Engineers.
 
 <a href="https://aimeos.org/">
     <img src="https://raw.githubusercontent.com/mjovanc/qryptic/master/qryptic-logo.png" width="400" align="right">
@@ -17,7 +17,7 @@ to submit pull requests.
 
 ### Skills
 
-⚡ Languages: Java, Python, JavaScript, Groovy
+⚡ Languages: C/C++, Java, Python, Groovy
 
 ⚙️ CI/CD: Ansible, Docker, Kubernetes, Jenkins, GitLab CI, Git, Gradle
 
