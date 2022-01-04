@@ -17,7 +17,7 @@ to submit pull requests.
 
 ### Skills
 
-⚡ Languages: C/C++, Java, Python, Groovy
+⚡ Languages: Java, Python, JavaScript, Groovy
 
 ⚙️ CI/CD: Ansible, Docker, Kubernetes, Jenkins, GitLab CI, Git, Gradle
 
