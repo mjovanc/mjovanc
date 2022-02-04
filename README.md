@@ -3,7 +3,7 @@
 Marcus here, working professionally as a Software Engineer with C/C++ and with building and maintaining CI/CD pipelines with Jenkins to make life a lot easier for the Software Engineers.
 
 <a href="https://aimeos.org/">
-    <img src="https://raw.githubusercontent.com/qryptic/qryptic-api/master/qryptic-logo.png?token=GHSAT0AAAAAABRGPQ6QUCCS4AG7W3YOZL2AYP5AE3A" width="400" align="right">
+    <img src="./qryptic-logo.png" width="400" align="right">
 </a>
 
 ### Qryptic
