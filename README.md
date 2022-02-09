@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-Marcus here, working professionally as a Software Engineer with C/C++ and with building and maintaining CI/CD pipelines with Jenkins to make life a lot easier for the Software Engineers.
+Marcus here, working professionally as a Software Engineer and with building and maintaining CI/CD pipelines with Jenkins to make life a lot easier for the Software Engineers.
 
 <a href="https://aimeos.org/">
     <img src="./qryptic-logo.png" width="400" align="right">
@@ -19,7 +19,9 @@ Our API documentation: https://api.qryptic.net/v1/docs/index.html
 
 ⚡ Languages: Java, Python, JavaScript, Groovy
 
-⚙️ CI/CD: Ansible, Docker, Kubernetes, Jenkins, GitLab CI, Git, Gradle
+🔌 Frameworks: Spring, Django
+
+⚙️ CI/CD: Ansible, Docker, Jenkins, GitLab CI, Git, Gradle
 
 💾 DB: MySQL, PostgreSQL, MongoDB
 
