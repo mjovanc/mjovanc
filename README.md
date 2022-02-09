@@ -14,7 +14,6 @@ Marcus here, working professionally as a Software Engineer and with building and
 
 Our website: https://qryptic.net \
 Our API documentation: https://api.qryptic.net/v1/docs/index.html \
-Our Discord: https://discord.gg/xrtwNfqshz
 
 ### Skills
 
