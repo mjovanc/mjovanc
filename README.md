@@ -30,6 +30,8 @@ Our API documentation: https://api.qryptic.net/v1/docs/index.html \
 
 ### Contact
 
+🔮 Read my articles on Medium: https://medium.com/@mjovanc
+
 📫 How to reach me: mjovanc@protonmail.com 
 
 
