@@ -13,7 +13,7 @@ Marcus here, working professionally as a Software Engineer and with building and
 🌱 If you are interested in contributing as well as learning more about either with backend development of Spring or frontend with React you are welcome to send me a email or join us on Discord: https://discord.gg/xrtwNfqshz 
 
 Our website: https://qryptic.net \
-Our API documentation: https://api.qryptic.net/v1/docs/index.html \
+Our API documentation: https://api.qryptic.net/v1/docs/index.html
 
 ### Skills
 
