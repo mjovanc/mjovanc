@@ -4,7 +4,7 @@ Marcus here, working professionally as a Software Engineer.
 
 ### Skills
 
-⚡ Languages: Java, Python, JavaScript/TypeScript, Groovy
+⚡ Languages: Java, Python, C++, Groovy
 
 🔌 Frameworks: Spring, Angular, Django
 
