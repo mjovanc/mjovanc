@@ -30,6 +30,10 @@ Hugin Cache: https://github.com/kryptokrona/hugin-cache/
 💻 OS: GNU/Linux, Mac OS, Windows
 
 
+### GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjovanc&show_icons=true&theme=default)
+
 ### Contact
 
 🔮 Read my articles on Medium: https://medium.com/@mjovanc
