@@ -12,8 +12,8 @@ Marcus here, working professionally as a Software Developer at [Softwerk AB](htt
 
 Currently my main focus has been to develop the cache solution for Hugin. The project enables you to save old messages on the boards and to provide RESTful API endpoints to get this data easily. The project benefits all the community members as well as the Kryptokrona project itself. I also doing development of the [Kryptokrona](https://github.com/kryptokrona/kryptokrona) core Blockchain.
 
-🌱 If you are interested in contributing as well as learning more about Blockchain Technology you are welcome to send Pull Requests on some of our [GitHub projects](https://github.com/kryptokrona/) or/and join us on [Discord](https://discord.gg/mkRpVgDubC) and be part of our \
-exciting crypto endevour!
+🌱 If you are interested in contributing as well as learning more about Blockchain Technology you are welcome to send Pull Requests on some of our [GitHub projects](https://github.com/kryptokrona/) or/and join us on [Discord](https://discord.gg/mkRpVgDubC) \ 
+and be part of our exciting crypto endevour!
 
 Our website: https://kryptokrona.se \
 Hugin Cache: https://github.com/kryptokrona/hugin-cache/
