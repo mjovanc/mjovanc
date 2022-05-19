@@ -20,13 +20,13 @@ Hugin Cache: https://github.com/kryptokrona/hugin-cache/
 
 ### Skills
 
-⚡ Languages: Java, Python, C++, JavaScript, Groovy, Bash, SQL
+⚡ Languages: C++, Java, Python, Bash, SQL
 
-🔌 Frameworks: Spring, Hibernate, Express, Sequelize
+🔌 Frameworks: Boost, Spring, Hibernate, gtest
 
-⚙️ CI/CD: Ansible, Docker, GitHub Actions, Jenkins, Jenkins JCasC, GitLab CI/CD, Git, Gradle, CMake, Klocwork, JFrog Artifactory
+⚙️ CI/CD: GCC, GDB, CMake, Docker, Git, Gradle, GitHub Actions, Klocwork, Jenkins, Jenkins JCasC, GitLab CI/CD, JFrog Artifactory
 
-💾 DB: MySQL, PostgreSQL, MongoDB
+💾 DB: MySQL, PostgreSQL
 
 💻 OS: GNU/Linux, Mac OS, Windows
 
