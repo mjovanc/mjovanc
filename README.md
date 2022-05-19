@@ -20,7 +20,7 @@ Hugin Cache: https://github.com/kryptokrona/hugin-cache/
 
 ### Skills
 
-⚡ Languages: C++, Java, Python, Bash, SQL
+⚡ Languages: C/C++, Java, Python, Bash, SQL
 
 🔌 Frameworks: Boost, Spring, Hibernate, gtest
 
