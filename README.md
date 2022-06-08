@@ -22,7 +22,7 @@ Hugin Cache: https://github.com/kryptokrona/hugin-cache
 
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,c,cpp,py,bash,spring,django,git,docker,mysql,postgres,sqlite,ansible,aws,azure,angular,nodejs,js,html,md,github,gitlab,idea,jenkins,linux,vscode,nginx,qt&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,cpp,py,bash,spring,django,git,docker,mysql,postgres,sqlite,ansible,aws,azure,angular,nodejs,js,html,md,github,gitlab,idea,jenkins,linux,vscode,nginx,qt&theme=dark)](https://skills.thijs.gg)
 
 
 ### GitHub Stats
