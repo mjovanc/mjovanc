@@ -22,15 +22,7 @@ Hugin Cache: https://github.com/kryptokrona/hugin-cache
 
 ### Skills
 
-⚡ Languages: C/C++, Java, Python, Bash, SQL
-
-🔌 Frameworks: Boost, Spring, Hibernate, gtest
-
-⚙️ CI/CD: GCC, GDB, CMake, Docker, Git, Gradle, GitHub Actions, Klocwork, Jenkins, Jenkins JCasC, GitLab CI/CD, JFrog Artifactory
-
-💾 DB: MySQL, PostgreSQL
-
-💻 OS: GNU/Linux, Mac OS, Windows
+[![My Skills](https://skills.thijs.gg/icons?i=java,c,cpp,py,bash,spring,django,git,docker,mysql,postgres,sqlite,ansible,aws,azure,angular,nodejs,js,html,md,github,gitlab,idea,jenkins,linux,vscode,nginx,qt&theme=light)](https://skills.thijs.gg)
 
 
 ### GitHub Stats
