@@ -19,7 +19,6 @@ or/and join us on [Discord](https://discord.gg/mkRpVgDubC) and be part of our ex
 
 Our website: https://kryptokrona.se \
 Kryptokrona core: https://github.com/kryptokrona/kryptokrona \
-Kryptokrona Java SDK: https://github.com/kryptokrona/kryptokrona-sdk \
 Hugin Cache: https://github.com/kryptokrona/hugin-cache
 
 ### Skills
