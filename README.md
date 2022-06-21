@@ -26,6 +26,10 @@ Official Website of Hugin Messenger: https://hugin.chat
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,reactivex,spring,hibernate,gradle,kotlin,py,js,nodejs,svelte,angular,git,docker,bash,mysql,postgres,sqlite,idea,linux,md,ansible,nginx,jenkins,github,gitlab,azure&theme=dark)](https://skills.thijs.gg)
 
+### GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjovanc&show_icons=true&theme=default)
+
 ### Contact
 
 🔮 Read my articles on Medium: https://medium.com/@mjovanc
