@@ -24,7 +24,7 @@ Official Website of Hugin Messenger: https://hugin.chat
 
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,reactivex,spring,hibernate,gradle,maven,kotlin,py,js,nodejs,svelte,angular,html,css,bash,git,docker,django,mysql,postgres,sqlite,idea,regex,linux,md,ansible,nginx,openstack,gcp,aws,jenkins,github,gitlab,azure&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,reactivex,spring,hibernate,gradle,kotlin,py,js,nodejs,svelte,angular,git,docker,bash,mysql,postgres,sqlite,idea,linux,md,ansible,nginx,jenkins,github,gitlab,azure&theme=dark)](https://skills.thijs.gg)
 
 
 ### GitHub Stats
