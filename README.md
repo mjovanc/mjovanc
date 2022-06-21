@@ -6,7 +6,9 @@ Marcus here, working professionally as a Software Engineer at [Softwerk AB](http
     <img src="./xkr-mining-400x369.png" width="400" align="right">
 </a>
 
-### Kryptokrona
+<p align="left">
+  <img src="kryptokrona.png" alt="Kryptokrona" width="350"/>
+</p>
 
 🔭 I also work on Kryptokrona. Kryptokrona is a decentralized blockchain from the Nordic based on CryptoNote, which forms the basis for Monero, among others. CryptoNote is a so-called “application layer” protocol further developed by TurtleCoin that enables things like: private transactions, messages and arbitrary data storage, completely decentralized.
 
