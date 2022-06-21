@@ -32,7 +32,7 @@ Official Website of Hugin Messenger: https://hugin.chat
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjovanc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
@@ -107,7 +107,7 @@ C++                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/mjovanc/mjovanc/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 14:05:08 UTC
+ Last Updated on 21/06/2022 14:18:10 UTC
 <!--END_SECTION:waka-->
 
 ### Contact
