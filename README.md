@@ -32,29 +32,61 @@ Official Website of Hugin Messenger: https://hugin.chat
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjovanc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 742 Contributions in the Year 2022
+ > 
+> 📦 264.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 80 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
-🌆 Daytime    238 commits    ██████████░░░░░░░░░░░░░░░   40.13% 
-🌃 Evening    202 commits    ████████░░░░░░░░░░░░░░░░░   34.06% 
-🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.42%
+🌞 Morning    109 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
+🌆 Daytime    239 commits    ██████████░░░░░░░░░░░░░░░   40.24% 
+🌃 Evening    202 commits    ████████░░░░░░░░░░░░░░░░░   34.01% 
+🌙 Night      44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.27% 
-Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Wednesday    165 commits    ███████░░░░░░░░░░░░░░░░░░   27.82% 
-Thursday     102 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
-Friday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
-Saturday     57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
-Sunday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3%
+Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Tuesday      81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Wednesday    165 commits    ███████░░░░░░░░░░░░░░░░░░   27.78% 
+Thursday     102 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+Friday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
+Saturday     57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
+Sunday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Stockholm
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
@@ -69,6 +101,13 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/mjovanc/mjovanc/main/charts/bar_graph.png) 
+
+
+ Last Updated on 21/06/2022 14:26:48 UTC
 <!--END_SECTION:waka-->
 
 ### Contact
