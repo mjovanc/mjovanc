@@ -36,18 +36,6 @@ Official Website of Hugin Messenger: https://hugin.chat
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 742 Contributions in the Year 2022
- > 
-> 📦 264.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 80 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -70,26 +58,6 @@ Sunday       67 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Stockholm
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -101,13 +69,6 @@ C++                      3 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/mjovanc/mjovanc/main/charts/bar_graph.png) 
-
-
- Last Updated on 21/06/2022 14:18:10 UTC
 <!--END_SECTION:waka-->
 
 ### Contact
