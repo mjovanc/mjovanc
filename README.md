@@ -12,7 +12,7 @@ Marcus here, working professionally as a Software Engineer at [Softwerk AB](http
 
 I also work on Kryptokrona. Kryptokrona is a decentralized blockchain from the Nordic based on CryptoNote, which forms the basis for Monero, among others. CryptoNote is a so-called “application layer” protocol further developed by TurtleCoin that enables things like: private transactions, messages and arbitrary data storage, completely decentralized.
 
-Currently my main focus is developing the [Kryptokrona](https://github.com/kryptokrona/kryptokrona) core Blockchain. I also doing development of [Kryptokrona Java SDK](https://github.com/kryptokrona/kryptokrona-java-sdk), [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) and [Hugin Cache](https://github.com/kryptokrona/hugin-cache).
+Currently my main focus is developing the [Kryptokrona](https://github.com/kryptokrona/kryptokrona) core Blockchain, [Kryptokrona Java SDK](https://github.com/kryptokrona/kryptokrona-java-sdk), [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) and [Hugin Cache](https://github.com/kryptokrona/hugin-cache).
 
 ### Skills
 
