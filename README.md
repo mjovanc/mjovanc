@@ -1,30 +1,13 @@
-## Welcome 👋
+### Hi, I'm Marcus!
 
-Marcus here, working professionally as a Software Engineer at [Softwerk AB](https://github.com/softwerkab).
+[<img src="https://raw.githubusercontent.com/kryptokrona/Styleguide/main/Logo/Black%20-%20logo.svg" width=300 align=right>](https://kryptokrona.org/)
 
-<a href="https://kryptokrona.se/">
-    <img src="./xkr-mining-400x369.png" width="350" align="right">
-</a>
+I work on Kryptokrona. Kryptokrona is a decentralized blockchain from the Nordic based on CryptoNote, which forms the basis for Monero, among others. CryptoNote is a so-called “application layer” protocol further developed by TurtleCoin that enables things like: private transactions, messages and arbitrary data storage, completely decentralized.
 
-<p align="left">
-  <img src="kryptokrona.png" alt="Kryptokrona" width="350"/>
-</p>
+Currently my main focus is developing the [Kryptokrona](https://github.com/kryptokrona/kryptokrona) core Blockchain, [Kryptokrona SDK](https://github.com/kryptokrona/kryptokrona-sdk), [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api), [Hugin API](https://github.com/kryptokrona/hugin-api) and [Hugin Desktop](https://github.com/kryptokrona/hugin-desktop).
 
-I also work on Kryptokrona. Kryptokrona is a decentralized blockchain from the Nordic based on CryptoNote, which forms the basis for Monero, among others. CryptoNote is a so-called “application layer” protocol further developed by TurtleCoin that enables things like: private transactions, messages and arbitrary data storage, completely decentralized.
+File issues and pull-requests in any and all of the projects I participate in. Contact me via
+email at `mjovanc@icloud.com` on twitter at [@mjovanc](https://twitter.com/mjovanc/) or on Hugin in the
+`#projectdevelopment` board or directly on Hugin using the Hugin key: `SEKReUhvgYYdWMx8yZwLWT5KdPJqCNPZyNYDLcz65NotD6urZ4U39ZzdC9pEBoYA61E8efUNdQv4jbND3oLS9WvSE9s1UMQcrxrf4ee65b1fb4f95b6aa7cc37e88ef25edea35ed190176ae04c205d8e9a07ae41b`.
 
-Currently my main focus is developing the [Kryptokrona](https://github.com/kryptokrona/kryptokrona) core Blockchain, [Kryptokrona Java SDK](https://github.com/kryptokrona/kryptokrona-java-sdk), [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) and [Hugin Cache](https://github.com/kryptokrona/hugin-cache).
-
-### Skills
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,reactivex,spring,hibernate,gradle,maven,kotlin,py,js,ts,nodejs,angular,express,git,docker,bash,mysql,postgres,sqlite,idea,linux,md,ansible,nginx,jenkins,github,gitlab,gcp,azure,aws&theme=dark)](https://skills.thijs.gg)
-
-### GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjovanc&show_icons=true&theme=default)
-
-### Contact
-
-🔮 Read my articles on Medium: https://medium.com/@mjovanc
-
-📫 How to reach me: mjovanc@icloud.com
-  
+I also run a blog on Medium which I go through different technologies: [https://mjovanc.com](https://mjovanc.com).
