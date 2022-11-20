@@ -1,4 +1,4 @@
-### Hi, I'm Јован!
+### Hi, I'm Jovan!
 
 [<img src="https://raw.githubusercontent.com/kryptokrona/Styleguide/main/Logo/Black%20-%20logo.svg" width=350 align=right>](https://kryptokrona.org/)
 
