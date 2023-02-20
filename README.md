@@ -17,8 +17,8 @@ File issues and pull-requests in any and all of the projects I participate in.
 
 🔮 Read my articles on Medium: https://medium.com/@mjovanc
 
-Follow me on Twitter: [@mjovanc](https://twitter.com/mjovanc/)
+🐦 Follow me on Twitter: [@mjovanc](https://twitter.com/mjovanc/)
 
-Contact me on Hugin: `SEKReUhvgYYdWMx8yZwLWT5KdPJqCNPZyNYDLcz65NotD6urZ4U39ZzdC9pEBoYA61E8efUNdQv4jbND3oLS9WvSE9s1UMQcrxrf4ee65b1fb4f95b6aa7cc37e88ef25edea35ed190176ae04c205d8e9a07ae41b`
+💬 Contact me on Hugin: `SEKReUhvgYYdWMx8yZwLWT5KdPJqCNPZyNYDLcz65NotD6urZ4U39ZzdC9pEBoYA61E8efUNdQv4jbND3oLS9WvSE9s1UMQcrxrf4ee65b1fb4f95b6aa7cc37e88ef25edea35ed190176ae04c205d8e9a07ae41b`
 
 📫 How to email me: mjovanc@icloud.com
