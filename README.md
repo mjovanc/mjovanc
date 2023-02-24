@@ -10,7 +10,7 @@ File issues and pull-requests in any and all of the projects I participate in.
 
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,reactivex,spring,hibernate,gradle,maven,kotlin,idea,kubernetes,py,django,flask,js,ts,nodejs,express,git,docker,bash,mysql,postgres,sqlite,linux,ansible,nginx,jenkins,github,githubactions,gitlab,azure&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,ktor,spring,hibernate,gradle,maven,idea,kubernetes,py,django,flask,js,ts,nodejs,express,git,docker,bash,mysql,postgres,sqlite,linux,ansible,nginx,jenkins,github,githubactions,gitlab,azure&theme=dark)](https://skills.thijs.gg)
 
 
 ### Contact
