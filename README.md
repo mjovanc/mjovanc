@@ -4,13 +4,13 @@
 
 I work on Kryptokrona. Kryptokrona is a decentralized blockchain from the Nordic based on CryptoNote, which forms the basis for Monero, among others. CryptoNote is a so-called “application layer” protocol further developed by TurtleCoin that enables things like: private transactions, messages and arbitrary data storage, completely decentralized.
 
-Currently my main focus is developing the [Kryptokrona](https://github.com/kryptokrona/kryptokrona) core, [Kryptokrona SDK](https://github.com/kryptokrona/kryptokrona-sdk), [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) and [Hugin API](https://github.com/kryptokrona/hugin-api).
+Currently my main focus is developing the [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) and [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api).
 
 File issues and pull-requests in any and all of the projects I participate in. 
 
 ### Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,ktor,spring,hibernate,gradle,maven,idea,kubernetes,py,django,flask,js,ts,nodejs,express,git,docker,bash,mysql,postgres,linux,ansible,nginx,jenkins,github,githubactions,gitlab,aws,azure&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,ktor,spring,hibernate,gradle,maven,idea,py,git,docker,bash,mysql,postgres,prometheus,linux,ansible,nginx,jenkins,github,githubactions,gitlab,aws,azure&theme=dark)](https://skills.thijs.gg)
 
 
 ### Contact
@@ -19,6 +19,6 @@ File issues and pull-requests in any and all of the projects I participate in.
 
 🐦 Follow me on Twitter: [@mjovanc](https://twitter.com/mjovanc/)
 
-💬 Contact me on Hugin: `SEKReUhvgYYdWMx8yZwLWT5KdPJqCNPZyNYDLcz65NotD6urZ4U39ZzdC9pEBoYA61E8efUNdQv4jbND3oLS9WvSE9s1UMQcrxrf4ee65b1fb4f95b6aa7cc37e88ef25edea35ed190176ae04c205d8e9a07ae41b`
+💬 Contact me on Hugin: `SEKReV7rDhaj9UV8NYgesQLyAVoddy4foZQzqg2Ci4YrdUNB3qFUzjCQeEe85es2yuC8wE9kGzhcKU23A7Qa5qm9h4CFbKh3umH9d07c4ccb60924225fae4958aa0d259615b340ad1a9024ee7d76a3615e535601`
 
 📫 Send an email: mjovanc@icloud.com
