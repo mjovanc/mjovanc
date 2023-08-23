@@ -1,4 +1,4 @@
-<h3 align="center">👋🏻 Hi there! I'm Marcus Cvjeticanin</h3>
+<h3 align="center">Hi there! I'm Marcus Cvjeticanin</h3>
 <p align="center">
   <a href="https://twitter.com/mjovanc/">Twitter</a> •
   <a href="https://medium.com/@mjovanc">Medium</a> •
