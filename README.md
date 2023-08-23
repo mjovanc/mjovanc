@@ -14,6 +14,7 @@ val marcus = developer {
         company = Softwerk
         role = Backend_Software_Engineer
     }
+    tech("Kotlin", "Ktor", "Spring")
     links {
         x = "@mjovanc"
     }
