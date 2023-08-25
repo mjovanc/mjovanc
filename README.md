@@ -12,7 +12,7 @@ val marcus = developer {
     about {
         name = "Marcus Cvjeticanin"
         company = Softwerk
-        role = Backend_Software_Engineer
+        role = Software_Engineer
     }
     tech("Kotlin", "Ktor", "Spring")
     links {
