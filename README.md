@@ -14,7 +14,7 @@ val marcus = developer {
         company = Softwerk
         role = Software_Engineer
     }
-    tech("Kotlin", "Ktor", "Spring")
+    tech("Kotlin", "Ktor")
     links {
         x = "@mjovanc"
     }
