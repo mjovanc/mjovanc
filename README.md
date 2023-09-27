@@ -12,7 +12,7 @@ val marcus = developer {
     about {
         name = "Marcus Cvjeticanin"
         company = Softwerk
-        role = Software_Engineer
+        role = Backend_Engineer
     }
     links {
         x = "@mjovanc"
