@@ -4,7 +4,7 @@
 
 I'm **Marcus**, a Rust/Kotlin aficionado with a strong passion for all things open source. I love writing software that benefits others. 
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/orhun.gpg) [![views](https://komarev.com/ghpvc/?username=mjovanc&style=flat&color=313131&label=views)](https://github.com/mjovanc)
+[![pgp](https://img.shields.io/badge/pgp-0x2CFF571AA0828DD86EBFF631F84FDD46215FA16B-313131?style=flat&labelColor=545454&color=313131)](https://github.com/mjovanc.gpg) [![views](https://komarev.com/ghpvc/?username=mjovanc&style=flat&color=313131&label=views)](https://github.com/mjovanc)
 
 <br>
 
