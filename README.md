@@ -8,7 +8,7 @@ I'm **Marcus**, a Rust/Kotlin aficionado with a strong passion for all things op
 
 <br>
 
-Ever since I joined GitHub **6** years ago, Ive contributed to a lot of various open source projects including the @kryptokrona project and the The Darkmatter Programming Language Compiler.                                                                                            
+Ever since I joined GitHub **6** years ago, Ive contributed to a lot of various open source projects including the Kryptokorna project and the The Darkmatter Programming Language Compiler.                                                                                            
 
 I'm actively developing/maintaining the ORM [njord](https://github.com/mjovanc/njord) ⛵.
 
