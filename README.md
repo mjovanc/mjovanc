@@ -8,7 +8,7 @@ I'm **Marcus**, a Rust/Kotlin aficionado with a strong passion for all things op
 
 <br>
 
-Ever since I joined GitHub **6** years ago, I pushed **20632** commits, opened **344** issues, submitted **736** pull requests, received **13719** stars across **111** personal projects, and contributed to **166** public repositories.                                                                                                                      
+Ever since I joined GitHub **6** years ago, I pushed **X** commits, opened **X** issues, submitted **736** pull requests, received **13719** stars across **111** personal projects, and contributed to **166** public repositories.                                                                                                                      
 
 I'm actively developing/maintaining the ORM [njord](https://github.com/mjovanc/njord) ⛵.
 
