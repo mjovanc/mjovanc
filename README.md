@@ -1,4 +1,4 @@
-<img align="left" width="150" src="https://raw.githubusercontent.com/mjovanc/mjovanc/main/viking_ship.png">
+<img align="left" width="150" src="https://raw.githubusercontent.com/mjovanc/mjovanc/main/viking.png">
 
 ### Hey!
 
