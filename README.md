@@ -1,4 +1,4 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" width="150" src="https://raw.githubusercontent.com/mjovanc/mjovanc/main/viking_ship.png">
 
 ### Hey!
 
