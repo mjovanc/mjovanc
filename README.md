@@ -12,6 +12,6 @@ Ever since I joined GitHub **6** years ago, I've contributed to a lot of various
 
 I'm actively developing/maintaining the ORM [njord](https://github.com/mjovanc/njord) ⛵.
 
-I regularly write [blog posts](https://mjovanc.com) about topics that pique my interest. For all my latest updates, follow me on [X](https://x.com/mjovanc). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/marcuscvjeticanin/).
+I regularly write [blog posts](https://mjovanc.com) about topics that pique my interest. For all my latest updates, follow me on [𝕏](https://x.com/mjovanc). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/marcuscvjeticanin/).
 
 **~** [_mjovanc.com_](https://mjovanc.com/)
