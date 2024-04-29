@@ -1,5 +1,3 @@
-<img align="left" width="170" src="https://raw.githubusercontent.com/mjovanc/mjovanc/main/viking.gif">
-
 ### Hey!
 
 I'm **Marcus**, a Rust aficionado with a strong passion for all things open source. I love writing software that benefits humanity. 
